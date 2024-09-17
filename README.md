@@ -2,7 +2,7 @@
 
 [![Site preview](./src/assets/pro-3.png)](https://google.com)
 
-My design portfolio to showcase a few projects. Built with [Vite](https://react.dev/) (a JavaScript build tool that can help you build React apps faster and more efficiently). View the [live site](https://github.com/iamaltaf786).
+My design portfolio to showcase a few projects. Built with [Vite](https://react.dev/) (a JavaScript build tool that can help you build React apps faster and more efficiently). View the [live site](https://iamaltaf786.github.io/Personal-Portfolio/).
 
 ## Install & run
 
