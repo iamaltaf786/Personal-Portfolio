@@ -160,7 +160,7 @@ useEffect(() => {
         <button
           className="btn btn-color-2"
           // data-aos="fade-left"
-          onClick={() => window.open('./assets/Altaf_Hussain_Resume.pdf')} //------------WILL HAVE TO FIX -------------
+          onClick={() => window.open('./assets/Resume_Altaf-Hussain.pdf')} //------------WILL HAVE TO FIX -------------
         >
           Download CV
         </button>
